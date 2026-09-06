@@ -1,7 +1,7 @@
 {
   "name": "@appneural/os-http",
   "version": "0.1.0",
-  "description": "HTTP router and server helpers for Appneural OS projects.",
+  "description": "HTTP router and server helpers for APPNEURAL OS projects.",
   "type": "module",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
